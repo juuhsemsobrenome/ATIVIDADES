@@ -1,2 +1,1 @@
-# JUH
-projetos de atividade
+atividades feitas nas aulas
